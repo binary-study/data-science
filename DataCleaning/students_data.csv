@@ -1,0 +1,32 @@
+student_id,name,age,gender,grade,math_score,english_score,science_score,enrolled_date,remarks
+100,jane smith,16.0,female,11,75.0,,66,2022-06-10,excellent
+101,John Doe,16.0,Male,10th,74.0,95,94,10-06-2022,GOOD
+102,Chris P.,,MALE,10,,missing,69,06/12/2022,needs improvement
+103,jane smith,16.0,FEMALE,10,,missing,62,10-06-2022,average
+104,Sara O'Neil,16.0,male,11,,96,64,2022-06-10,GOOD
+105,Mike O’Reilly,16.0,Female,10,,,83,06/12/2022,needs improvement
+106,ali Khan,17.0,female,11,64.0,,75,06/12/2022,Good
+107,Sara O'Neil,17.0,female,12,,63,62,2022/06/11,excellent
+108,Mike O’Reilly,16.0,Female,12,80.0,missing,89,06/12/2022,poor
+109,Robert Brown,17.0,female,12,,missing,97,10-06-2022,needs improvement
+110,lucy gray,17.0,male,11th,65.0,67,100,06/12/2022,excellent
+111,Simran Singh,16.0,FEMALE,11th,,missing,95,2022-06-10,average
+112,Patel R.,17.0,female,11,,87,89,2022-06-10,poor
+113,Patel R.,17.0,male,10,,,98,06/12/2022,Average
+114,Ali Khan,17.0,male,12,,91,67,2022/06/11,poor
+115,Lucy gray,16.0,Female,12,65.0,91,94,06/12/2022,Average
+116,Chris P.,,Female,11,,,72,2022/06/11,excellent
+117,Ali Khan,18.0,male,11th,67.0,74,81,2022-06-10,GOOD
+118,Simran Singh,17.0,Male,10,100.0,74,62,2022/06/11,average
+119,Patel R.,17.0,MALE,11th,73.0,,90,06/12/2022,Good
+120,Sara O'Neil,17.0,Male,10,,missing,89,2022-06-10,average
+121,John Doe,18.0,female,11,66.0,72,94,10-06-2022,Average
+122,Sara O'Neil,17.0,MALE,11th,75.0,,66,2022-06-10,good student
+123,jane smith,17.0,Female,11th,,missing,63,06/12/2022,excellent
+124,John Doe,18.0,MALE,11th,,,91,06/12/2022,GOOD
+125,Mike O’Reilly,17.0,Male,12,94.0,80,63,10-06-2022,Average
+126,John Doe,,Male,10th,64.0,missing,67,06/12/2022,good student
+127,Simran Singh,16.0,FEMALE,12,,76,80,06/12/2022,poor
+128,Sara O'Neil,17.0,female,11,,64,89,2022-06-10,average
+129,Patel R.,17.0,male,11,,64,83,2022/06/11,Average
+129,Patel R.,17.0,male,11,,64,83,2022/06/11,Average
